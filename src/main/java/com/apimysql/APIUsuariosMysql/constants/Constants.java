@@ -1,0 +1,6 @@
+package com.apimysql.APIUsuariosMysql.constants;
+
+public class Constants {
+    public static final String API_URL = "/api/v0";
+    public static final String API_USERS = API_URL + "/users";
+}
