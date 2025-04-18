@@ -1,4 +1,4 @@
-# Sistema gerenciamento Usuários com Docker - MySQL 🐳
+# Sistema gerenciamento Usuários com Docker - MySQL 🐬🐳
 
 ## Como instalar e rodar o projeto:
 - Clonar este repositório no diretório desejado `git clone https://github.com/gustavoc0imbra/API-Usuarios-Mysql-docker-1bim.git`
