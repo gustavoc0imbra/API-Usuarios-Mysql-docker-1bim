@@ -1,4 +1,10 @@
 # Sistema gerenciamento Usuários com Docker - MySQL 🐬🐳
+Um repositório que faz parte do conjunto entre outros 2 repositórios, que são aplicações que salvam e exibem os dados de usuários. Uma é responsável por exibir os dados que salvos em coleções no MongoDB e a outra exibe ambos os dados das APIs.  
+Neste projeto é disponibilizado uma API que persiste e retorna dados contidos na tabela MySQL.
+
+## Projetos Relacionados:
+- API que persiste o dado no MongoDB 🍃: [API MongoDB](https://github.com/gustavoc0imbra/API-Usuarios-Mongo-docker-1bim)
+- Aplicação frontend: [App React](https://github.com/gustavoc0imbra/frontusuarios-proj1bim-docker)
 
 ## Como instalar e rodar o projeto:
 - Clonar este repositório no diretório desejado `git clone https://github.com/gustavoc0imbra/API-Usuarios-Mysql-docker-1bim.git`
