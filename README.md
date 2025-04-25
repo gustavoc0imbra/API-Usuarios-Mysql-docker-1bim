@@ -12,10 +12,6 @@ Neste projeto é disponibilizado uma API que persiste e retorna dados contidos n
 - `docker-compose up -d`
 - Aguarde o término do build
 
-## Instruções pós build:
-- Esta API é necessário reiniciar a imagem dela, pois o banco de dados demora um pouco para iniciar.
-- Pode reiniciar a imagem através do programa docker desktop que irá funcionar normalmente e nas próximas inicializações não será necessário repetir o processo.
-
 > [!NOTE]
 > - A API será disponibilizada no endereço `http://localhost:8081/api/v0`  
 > - O endpoint para receber a lista e salvar as informações são `/users`  
