@@ -2,7 +2,7 @@
 Um repositório que faz parte do conjunto entre outros 2 repositórios, que são aplicações que salvam e exibem os dados de usuários. Uma é responsável por exibir os dados que salvos em coleções no MongoDB e a outra exibe ambos os dados das APIs.  
 Neste projeto é disponibilizado uma API que persiste e retorna dados contidos na tabela MySQL.
 
-## Arquitetura do Projeto:
+## Arquitetura Projeto:
 ![ArqProjeto](https://github.com/user-attachments/assets/6ad82a32-39cb-4194-91e6-c61104a21a0c)
 
 
