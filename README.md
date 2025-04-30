@@ -15,6 +15,7 @@ Neste projeto é disponibilizado uma API que persiste e retorna dados contidos n
 - Após clonar, acessar via terminal o diretório do projeto e digite o seguinte comando para realizar o build da imagem docker:
 - `docker-compose up -d`
 - Aguarde o término do build
+- Após o build e inicialização do container a **api** será disponibilizada na porta `8081`
 
 > [!NOTE]
 > - A API será disponibilizada no endereço `http://localhost:8081/api/v0`  
